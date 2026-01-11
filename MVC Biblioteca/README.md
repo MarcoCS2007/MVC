@@ -124,13 +124,14 @@ Este código demonstra conceitos avançados de Orientação a Objetos:
 
 ---
 
-## ✒️ Autor
+## ✒️ Autoria e Transparência
 
-Desenvolvido por **[MarcoCS2007](https://www.google.com/search?q=https://github.com/MarcoCS2007)**.
+Projeto desenvolvido por **[MarcoCS2007](https://github.com/MarcoCS2007)**.
 
-```
+> **Nota sobre o desenvolvimento:**
+> Este projeto foi realizado com foco total no aprendizado prático da arquitetura MVC. O código foi estruturado e escrito manualmente pelo autor, evitando o uso de ferramentas de geração de código para garantir a fixação do conteúdo.
+>
+> * **Uso de IA**: Utilizada apenas para correções pontuais de erros na camada `Controller` e para a geração automática desta documentação (README).
 
+---
 
-Se quiser continuar evoluindo esse projeto, o próximo passo natural seria trocar a lista `self._dados = []` no `ModelLivro` por uma conexão com **SQLite**. Como seu Model já está isolado, você faria isso sem precisar mexer em nenhuma linha da View ou do Controller!
-
-```
